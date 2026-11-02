@@ -103,8 +103,8 @@ The analysis explored:
 - The 41–50 age group recorded the highest average engagement rate.
 - Verified accounts showed a higher average engagement rate than non-verified accounts.
 - Mobile users recorded the highest average watch time.
-- Negative-sentiment posts showed a higher average engagement rate than neutral posts.
-- Actual best posting time could not be identified because the dataset contains dates without usable time-of-day information.
+- Negative-sentiment posts recorded the highest average engagement rate, followed by       neutral and positive posts.
+- Actual best posting time could not be identified because the dataset contains dates      without usable time-of-day information.
 
 ## Project Outcome
 
